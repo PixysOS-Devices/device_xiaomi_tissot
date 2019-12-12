@@ -1,22 +1,32 @@
 [
   {
+    "remote": "github",
     "repository": "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
-    "branch": "lineage-16.0"
+    "branch": "lineage-17.0"
   },
   {
+    "remote": "github",
     "repository": "PixysOS-Devices/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch": "tissot"
   },
   {
+    "remote": "github",
     "repository": "PixysOS-Devices/kernel_xiaomi_msm8953",
     "target_path": "kernel/xiaomi/msm8953",
-    "branch": "pie"
+    "branch": "ten"
   },
   {
+    "remote": "github",
     "repository": "PixysOS-Devices/device_xiaomi_msm8953-common",
     "target_path": "device/xiaomi/msm8953-common",
-    "branch": "tissot"
+    "branch": "ten"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_device_qcom_sepolicy",
+    "target_path": "device/qcom/sepolicy-legacy-um",
+    "branch": "lineage-17.0-legacy-um"
   }
 ]
